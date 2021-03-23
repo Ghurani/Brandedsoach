@@ -65,11 +65,11 @@ pip2 install requests
 
 pip2 install mechanize
 
-git clone https://github.com/Somi190/Brandedsoach
+git clone https://github.com/Fiazghurani/Hacker
 
-cd Brandedsoach
+cd Hacker
 
-python2 Awan.py
+python2 Ghurani.py
 
 ````
 
